@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bg-main{
+    background-color: #f5ebdc;
+}
+.logo{
+    width: 5rem;
+    -ms-flex-item-align: start;
+}
+.width{
+    width: 30rem;
+
+}
